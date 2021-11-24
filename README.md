@@ -1,11 +1,15 @@
-### Hi there 👋
-
+<div align="center">
+<h1> Hello world! Bem vindos ao meu pefil </h1>
+  </div>
 <div align="center">
   <a href="https://github.com/SamuelMTeixeira"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelmteixeira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmteixeira&layout=compact&langs_count=7&theme=nord"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=samuelmteixeira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmteixeira&layout=compact&langs_count=7&theme=vue-dark"/>
  </div>
-    
+ 
+
+##
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Samu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Samu-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -23,3 +27,4 @@
     <a href = "mailto:samuelmolendolff@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
     
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
