@@ -28,7 +28,9 @@
 <h2 align="center">Contact and more details</h2>
 
 <div align="center">
-<a href="https://samuelmteixeira.vercel.app" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/See-Porfolio-1abc9c.svg" target="_blank"</a>
+    <a alt="porfolio" href="https://samuelmteixeira.vercel.app">
+        <img height="30" width="130" src="https://img.shields.io/badge/See-Porfolio-1abc9c.svg" /> 
+    </a>
 </div>
 
 <br>
