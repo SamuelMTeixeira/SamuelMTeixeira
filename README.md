@@ -37,7 +37,7 @@
 
 <h2 align="center">Check my Portfolio for more details</h2>
 <div align="center">
-    <a alt="porfolio" href="https://samuelmteixeira.vercel.app">
+    <a alt="porfolio" href="https://samuelmteixeira.dev" target="_blank">
         <img height="30" width="130" src="https://img.shields.io/badge/See-Porfolio-1abc9c.svg" /> 
     </a>
 </div>
